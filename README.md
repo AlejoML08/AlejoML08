@@ -34,9 +34,9 @@
 
 <table align="left" >
 <tr border="none">
-  <td width="5%" align="center">
+  <td width="25%" align="center">
     <p align="center">
      <a href="https://github.com/AlejoML08/vscode-pruebas/tree/main/pagina%20de%20muestra" title="Rising Desing">
-        <img align="center" width=100% src="https://github.com/user-attachments/assets/d664d663-1c90-4852-bd96-1ef77daf33e9"   alt="imagen" /></a>
+        <img align="center" width=50% src="https://github.com/user-attachments/assets/d664d663-1c90-4852-bd96-1ef77daf33e9"   alt="imagen" /></a>
       </p>
 </p>        
