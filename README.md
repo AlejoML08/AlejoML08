@@ -36,7 +36,7 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM](https://github.com/AlejoML08/vscode-pruebas/tree/main/pagina%20de%20muestra" title="Rising Desing">
+     <a href="[https://youtu.be/rISmdhlhOPM](https://github.com/AlejoML08/vscode-pruebas/tree/main/pagina%20de%20muestra](https://github.com/AlejoML08/vscode-pruebas/tree/main/pagina%20de%20muestra)" title="Rising Desing">
         <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
       </p>
 </p>        
