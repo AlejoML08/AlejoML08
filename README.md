@@ -11,7 +11,7 @@
 <p align="left">
 🎓 Tecnico en Programacion
   
-💻Soy un apasionado programador junior con ganas de aprender y crecer. Con dedicación y perseverancia, me esfuerzo por dominar las últimas tecnologías y entregar soluciones innovadoras.
+💻Soy un apasionado programador con ganas de aprender y crecer. Con dedicación y perseverancia, me esfuerzo por dominar las últimas tecnologías y entregar soluciones innovadoras.
   
 💻 un año de experiencia en el proceso de desarrollo de software
 
