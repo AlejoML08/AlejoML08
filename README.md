@@ -9,8 +9,10 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Programador
-
+🎓 Tecnico en Programacion
+  
+💻Soy un apasionado programador junior con ganas de aprender y crecer. Con dedicación y perseverancia, me esfuerzo por dominar las últimas tecnologías y entregar soluciones innovadoras.
+  
 💻 un año de experiencia en el proceso de desarrollo de software
 
 📝 roles en el ámbito: desarrollador... líder... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
@@ -32,11 +34,10 @@
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 
-<table align="left" >
-<tr border="none">
+<tr border="none" width="40%">
   <td width="25%" align="left">
-    <p align="center">
+    <p align="left">
      <a href="https://github.com/AlejoML08/vscode-pruebas/tree/main/pagina%20de%20muestra" title="Rising Desing">
-        <img align="center" padding="0%" width=40% src="https://github.com/user-attachments/assets/7e547551-bac9-448e-a05e-f63602bcfb39"   alt="imagen" /></a>
+        <img align="left" padding="0%" width=40% src="https://github.com/user-attachments/assets/7e547551-bac9-448e-a05e-f63602bcfb39"   alt="imagen" /></a>
       </p>
 </p>        
