@@ -69,7 +69,7 @@
    <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="[https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp](https://docs.google.com/document/d/19aCspm10-a09r61h3yUOlodX5xzSFfOtDqfBxd_8pYU/edit)"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
