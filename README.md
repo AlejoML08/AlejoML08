@@ -13,9 +13,9 @@
   
 💻Soy un apasionado programador con ganas de aprender y crecer. Con dedicación y perseverancia, me esfuerzo por dominar las últimas tecnologías y entregar soluciones innovadoras.
   
-💻 un año de experiencia en el proceso de desarrollo de software
+💻 Un año de experiencia en el proceso de desarrollo de software
 
-📝 roles en el ámbito: desarrollador... líder... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 Roles en el ámbito: desarrollador... líder... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
 📫 Contacto: **alejomaximili@gmail.com**
 <!--Intro end-->
